@@ -1,0 +1,11 @@
+@article{REPO384,
+    author = "Tian, Yao and Yan, Tingyun and Zhao, Xi and Huang, Kai and Zhou, Xiaofang",
+    doi = "10.1109/TKDE.2022.3206441",
+    journal = "IEEE Transactions on Knowledge and Data Engineering",
+    keywords = "Indexes;Measurement;Extraterrestrial measurements;Machine learning;Query processing;Indexing;Data models;Learned index;multi-dimension;metric space",
+    number = "8",
+    pages = "7624-7638",
+    title = "{A Learned Index for Exact Similarity Search in Metric Spaces}",
+    volume = "35",
+    year = "2023"
+}
