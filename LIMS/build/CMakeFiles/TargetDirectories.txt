@@ -1,0 +1,3 @@
+/home/root_mly/PProject/LIMS/LIMS/build/CMakeFiles/rebuild_cache.dir
+/home/root_mly/PProject/LIMS/LIMS/build/CMakeFiles/edit_cache.dir
+/home/root_mly/PProject/LIMS/LIMS/build/CMakeFiles/LIMS.dir
